@@ -2,7 +2,7 @@
  Sou desenvolvedora front-end. Sou apaixonada por tecnologia e arte.
 Minha meta para 2022 é me tornar desenvolvedora full-stack.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaizaBertelli&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ##Tecnologias
 ## Stacks
@@ -15,7 +15,9 @@ Minha meta para 2022 é me tornar desenvolvedora full-stack.
 <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
+---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaizaBertelli&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LaizaBertelli/LaizaBertelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
