@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, meu nome é Laiza Bertelli
+ Sou desenvolvedora front-end. Sou apaixonada por tecnologia e arte.
+Minha meta para 2022 é me tornar desenvolvedora full-stack.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaizaBertelli)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LaizaBertelli/LaizaBertelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
