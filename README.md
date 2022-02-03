@@ -1,6 +1,6 @@
 ### Hello, I'm Laiza Bertelli
 
-## Sobre Mim
+## About me
 
 - 🔭 I’m currently working on my portifolio and on Trybe's projects
 - 🌱 I’m currently learning back-end with Node.js
