@@ -1,7 +1,7 @@
 # Hello, I'm Laiza Bertelli
 
 
-<img style="max-width: 100px; float: left; src="./vector-me.png" alt="" />
+<img style="max-width: 100px; float: left;" src="./vector-me.png" alt="" />
 
 - 🔭 I’m currently working on my portifolio and on Trybe's projects
 - 🌱 I’m currently learning back-end with Node.js
