@@ -1,6 +1,6 @@
 # Hello, I'm Laiza Bertelli
 
-<div>
+<div style="display: flex">
 <img style="width: 300px;" src="./vector-me.png" alt="" />
 
 <ul>
