@@ -1,7 +1,7 @@
 # Hello, I'm Laiza Bertelli
 
-
-<img style="max-width: 100px; float: left;" src="./vector-me.png" alt="" />
+<div>
+<img style="float: left; width: 300px;" src="./vector-me.png" alt="" />
 
 - 🔭 I’m currently working on my portifolio and on Trybe's projects
 - 🌱 I’m currently learning back-end with Node.js
@@ -11,6 +11,8 @@
 
 <a href="https://linkedin.com/in/laizabertelli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto: laizabertelli@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="" /></a>
+
+</div>
 
 ---
 
