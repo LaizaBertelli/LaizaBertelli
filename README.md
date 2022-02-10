@@ -1,7 +1,6 @@
 # Hello, I'm Laiza Bertelli
 
 <div style="display: flex">
-<img style="width: 300px;" src="./vector-me.png" alt="" />
 
 <ul>
     <li>🔭 I’m currently working on my portifolio and on Trybe's projects</li>
