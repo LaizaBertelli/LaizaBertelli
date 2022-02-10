@@ -3,11 +3,12 @@
 <div>
 <img style="float: left; width: 300px;" src="./vector-me.png" alt="" />
 
-- 🔭 I’m currently working on my portifolio and on Trybe's projects
-- 🌱 I’m currently learning back-end with Node.js
-- 😄 Pronouns: She/Her
-- 📫 How to reach me:
-
+<ul>
+    <li>🔭 I’m currently working on my portifolio and on Trybe's projects</li>
+    <li>I’m currently learning back-end with Node.js</li>
+    <li>Pronouns: She/Her</li>
+    <li>📫 How to reach me:</li>
+</ul>
 
 <a href="https://linkedin.com/in/laizabertelli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto: laizabertelli@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="" /></a>
