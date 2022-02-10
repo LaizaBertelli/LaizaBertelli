@@ -1,7 +1,7 @@
 # Hello, I'm Laiza Bertelli
 
 <div>
-<img style="float: left; width: 300px;" src="./vector-me.png" alt="" />
+<img style="float: right; width: 300px;" src="./vector-me.png" alt="" />
 
 <ul>
     <li>🔭 I’m currently working on my portifolio and on Trybe's projects</li>
