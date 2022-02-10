@@ -31,17 +31,7 @@
 
 ---
 
+<div style="display: flex;">
 <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=LaizaBertelli&count_private=true&theme=midnight-purple" alt="" />
-
 <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaizaBertelli&layout=compact&langs_count=7&theme=midnight-purple"/>
-<!--
-**LaizaBertelli/LaizaBertelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+</div>
