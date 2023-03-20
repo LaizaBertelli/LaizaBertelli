@@ -3,9 +3,6 @@
 <div style="display: flex">
 
 <ul>
-    <li>🔭 I’m currently working on my portifolio and on Trybe's projects</li>
-    <li>I’m currently learning back-end with Node.js</li>
-    <li>Pronouns: She/Her</li>
     <li>📫 How to reach me:</li>
 </ul>
 
